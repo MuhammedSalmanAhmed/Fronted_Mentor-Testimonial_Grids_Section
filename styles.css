@@ -1,0 +1,84 @@
+body{
+    background-color: hsl(210, 46%, 95%);
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.container{
+    margin: 10rem auto auto;
+    width: 80%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    row-gap: 2rem;
+    column-gap: 2rem;
+    
+}
+.picture{
+    border-radius: 50%;
+    width: 2rem;
+    float: left;
+    margin-right: 1rem;
+}
+.Dani{
+    border: 3px solid hsl(263, 44%, 64%);
+}
+.Pat{
+    border: 3px solid hsl(263, 55%, 52%);
+}
+.name{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 1rem;
+}
+.verified{
+    margin-top: 0px;
+    font-size: 1rem;
+    opacity: 50%;
+}
+.Review1{
+    font-size: 22px;
+    position: relative;
+}
+.Review2{
+    opacity: 70%;
+    font-size: 15px;
+}
+.box{
+    border-radius: 10px;
+    padding: 2.2rem 2.2rem 1rem;
+}
+.Daniel{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    background-color: hsl(263, 55%, 52%);
+    position: relative;
+    color: white;
+}
+.quotation{
+    position: absolute;
+    width: 8rem;
+    right: 5rem;
+    top: 0rem;
+}
+.Kira{
+    background-color: white;
+    height: 3fr;
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    color: hsl(219, 29%, 14%);
+}
+.Jonathan{
+    background-color: hsl(217, 19%, 35%);
+    color: white;
+}
+.Jeanette{
+    background-color: white;
+    color: hsl(219, 29%, 14%);
+}
+.Patrick{
+    background-color: hsl(219, 29%, 14%);
+    grid-column-start: 2;
+    grid-column-end: 4;
+    color: white;
+}
