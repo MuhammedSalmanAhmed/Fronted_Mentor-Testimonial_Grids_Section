@@ -25,7 +25,7 @@ I built this testimonials grid section website using HTML and CSS on VS Code.
 ### Links
 
 - Solution URL: (https://github.com/MuhammedSalmanAhmed/Fronted_Mentor-Testimonial_Grids_Section)
-- Live Site URL: (https://muhammedsalmanahmed.github.io/QR-Code-Challenge-Frontend-Mentor/)
+- Live Site URL: (https://muhammedsalmanahmed.github.io/Fronted_Mentor-Testimonial_Grids_Section/)
 
 ## My process
 
